@@ -11,7 +11,7 @@ public class EjemploGihb {
         // TODO code application logic here
         
         
-        System.out.print("saludos");
+        System.out.print("saludos juanito");
     }
     
 }
